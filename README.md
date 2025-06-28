@@ -46,8 +46,6 @@
 ### 📫 Connect with Me
 
 - 🐦 Twitter: [@sanjitxdutta](https://twitter.com/sanjitxdutta)
-- 💼 LinkedIn: *(optional - add your profile if available)*
-- 🧑‍💻 Portfolio: *(optional - add if you have or plan one)*
 
 ---
 
