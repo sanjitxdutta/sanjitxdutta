@@ -1,3 +1,5 @@
+![Sylvaine (1)](https://github.com/user-attachments/assets/94810f03-ca5d-449c-a183-14250b60c39e)
+
 <img src="https://media.tenor.com/XvOKwHdq4L0AAAAd/developer.gif" alt="developer-gif" width="300"/>
 
 <h1 align="center">Hi 👋, I'm Sanjit Dutta</h1>
