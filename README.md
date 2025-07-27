@@ -45,7 +45,7 @@
     <td align="center" width="33%">
       <br>
       <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100%" height="200">
-      <P></P>
+      <<br>
       <br><b>CI/CD Workflows</b>
     </td>
     <td align="center" width="33%">
