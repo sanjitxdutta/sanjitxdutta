@@ -12,31 +12,37 @@
 
 ### 💡 About Me
 
-- 👨‍💻 Currently learning **Frontend Web Development** & diving into **DevOps**
-- 🧰 Exploring tools like **Git**, **Linux**, **Docker**, and **CI/CD**
-- 🗂️ Documenting my learning journey [here](https://github.com/sanjitxdutta/DevOps)
-- 🌱 Always curious about how systems work behind the scenes
-- 🌐 Aspiring to build real-world projects & deploy them efficiently
+- 🌱 Currently learning **Frontend Web Development** & diving deeper into **DevOps**
+- 🧰 Hands-on with tools like **Git**, **Linux**, **Docker**, **CI/CD pipelines**
+- 📖 Sharing my journey & notes [here](https://github.com/sanjitxdutta/DevOps)
+- 💻 Building real-world projects & deploying them efficiently
+- 🎯 Goal: Become a **full-stack web developer** with strong DevOps fundamentals
+- 🔄 Open to collaboration and contributing to beginner-friendly repos
 
 ---
 
-### 🛠️ Tech Stack (Learning & Using)
+### 🧰 Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript
-- **Version Control:** Git, GitHub
-- **DevOps Tools:** Linux CLI, Docker, CI/CD basics
-- **Other Interests:** Bash scripting, Automation, Deployment
-
----
-
-### 🔧 Projects & Practice
-
-- 📘 [DevOps Journey](https://github.com/sanjitxdutta/DevOps) — Logs, code & notes from my daily DevOps & WebDev learning
-- 🧪 [Mini Projects](https://github.com/sanjitxdutta?tab=repositories) — Basic experiments and practice files
+- **Frontend:** HTML, CSS, JavaScript, React (Learning)
+- **Backend:** Node.js (Basics), Express.js (Exploring)
+- **Version Control:** Git & GitHub (Daily Driver)
+- **DevOps Tools:** Linux CLI, Docker, Bash Scripting, CI/CD (GitHub Actions, Basics)
+- **Database:** MongoDB (Learning)
+- **Others:** VS Code, Postman, Vercel, Render, Netlify, Nginx (Exploring)
 
 ---
 
-### 📈 GitHub Stats
+### 🧪 Projects & Practice
+
+- 🔧 [Tomato Delivery 🍅](https://github.com/sanjitxdutta/Tomato-Delivery) — Fullstack food ordering platform with React + MongoDB + JWT + Admin Panel
+- 📘 [DevOps Journey](https://github.com/sanjitxdutta/DevOps) — Logs, notes, and hands-on experiments in DevOps & System tools
+- 💼 [Portfolio Website](https://sanjitxdutta.vercel.app/) — My personal portfolio built using HTML/CSS/JS to showcase my work
+
+> _More projects on the way... one build at a time._
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanjitxdutta&show_icons=true&theme=tokyonight" width="48%" height="200"/>
@@ -47,11 +53,11 @@
 
 ### 📫 Connect with Me
 
-- 🐦 Twitter: [@sanjitxdutta](https://twitter.com/sanjitxdutta)
+- 🌐 Portfolio: [sanjitxdutta.vercel.app](https://sanjitxdutta.vercel.app/)
+- 🐦 Twitter (X): [@sanjitxdutta](https://twitter.com/sanjitxdutta)
+- 🐙 GitHub: [@sanjitxdutta](https://github.com/sanjitxdutta)
+- 📧 Email: duttasanjit691@gmail.com
 
 ---
 
 > “Keep building. Keep learning. Keep shipping.” 🚀
-
-
-now update this with all the current data
