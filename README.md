@@ -72,10 +72,16 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjitxdutta&theme=tokyonight&show_icons=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sanjitxdutta&theme=tokyonight&hide_border=false" height="180"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://github-readme-stats.vercel.app/api?username=sanjitxdutta&theme=tokyonight&show_icons=true" height="180"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=sanjitxdutta&theme=tokyonight&hide_border=false" height="180">
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">⚡ Fun Fact</h2>
 
