@@ -5,38 +5,44 @@
 <h1 align="center">Hi 👋, I'm Sanjit Dutta</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Self-taught+Tech+Enthusiast;Learning+Web+Development+%26+DevOps;Building+one+project+at+a+time!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Self-taught+Tech+Enthusiast;Full+Stack+Web+Developer;DevOps+Explorer;Learning+in+Public+%F0%9F%93%9A;Building+One+Project+at+a+Time!" />
 </p>
 
 ---
 
 ### 💡 About Me
 
-- 👨‍💻 Currently learning **Frontend Web Development** & diving into **DevOps**
-- 🧰 Exploring tools like **Git**, **Linux**, **Docker**, and **CI/CD**
+- 👨‍💻 I'm a **Full Stack Web Developer** exploring **DevOps** to level up my deployment & system skills
+- 🧰 Working with tools like **Git**, **Linux**, **Docker**, **CI/CD**, and **MongoDB**
 - 🗂️ Documenting my learning journey [here](https://github.com/sanjitxdutta/DevOps)
-- 🌱 Always curious about how systems work behind the scenes
-- 🌐 Aspiring to build real-world projects & deploy them efficiently
+- 🌐 Passionate about building scalable, real-world projects — from frontend to backend to production
+- 🚀 Learning in public and sharing everything I build
 
 ---
 
-### 🛠️ Tech Stack (Learning & Using)
+### 🧰 Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript
-- **Version Control:** Git, GitHub
-- **DevOps Tools:** Linux CLI, Docker, CI/CD basics
-- **Other Interests:** Bash scripting, Automation, Deployment
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB (Mongoose)
+- **Authentication:** JWT, Cookies
+- **Version Control:** Git & GitHub
+- **DevOps Tools:** Linux CLI, Docker, GitHub Actions (CI/CD), Bash scripting
+- **Deployment:** Vercel, Render, Netlify, Nginx (exploring)
+- **Others:** Postman, VS Code, Stripe (for payments), GSAP (for animation)
 
 ---
 
 ### 🔧 Projects & Practice
 
-- 📘 [DevOps Journey](https://github.com/sanjitxdutta/DevOps) — Logs, code & notes from my daily DevOps & WebDev learning
-- 🧪 [Mini Projects](https://github.com/sanjitxdutta?tab=repositories) — Basic experiments and practice files
+- 🍅 [Tomato Delivery](https://github.com/sanjitxdutta/Tomato-Delivery) — Fullstack food ordering system with React, Express, MongoDB, Admin Panel, and JWT Auth
+- 📘 [DevOps Journey](https://github.com/sanjitxdutta/DevOps) — Notes, practice setups, and logs from learning system tools and workflows
+- 💼 [Portfolio Website](https://sanjitxdutta.vercel.app/) — Personal portfolio built to showcase projects and skillset
+- 🧪 [Mini Projects](https://github.com/sanjitxdutta?tab=repositories) — Smaller frontend/backend experiments & ideas
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanjitxdutta&show_icons=true&theme=tokyonight" width="48%" height="200"/>
@@ -47,9 +53,11 @@
 
 ### 📫 Connect with Me
 
-- 🐦 Twitter: [@sanjitxdutta](https://twitter.com/sanjitxdutta)
+- 🌐 Portfolio: [sanjitxdutta.vercel.app](https://sanjitxdutta.vercel.app/)
+- 🐦 Twitter (X): [@sanjitxdutta](https://twitter.com/sanjitxdutta)
+- 🐙 GitHub: [@sanjitxdutta](https://github.com/sanjitxdutta)
+- 📧 Email: duttasanjit691@gmail.com
 
 ---
 
 > “Keep building. Keep learning. Keep shipping.” 🚀
-
